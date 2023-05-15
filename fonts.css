@@ -1,16 +1,12 @@
 @font-face {
   font-family: NexoFontLight;
-  src: url("fonts/NexoFontLight.ttf");
+  src: url("fonts/nexofontlight-webfont.woff2");
 }
 @font-face {
   font-family: NexoFontBold;
-  src: url("fonts/NexoFontBold.ttf");
-}
-@font-face {
-  font-family: NexoFontDark;
-  src: url("fonts/NexoFontDark.ttf");
+  src: url("fonts/nexofontbold-webfont.woff2");
 }
 @font-face {
   font-family: NexoFontNormal;
-  src: url("fonts/NexoFontNormal.ttf");
+  src: url("fonts/nexofontnormal-webfont.woff2");
 }
