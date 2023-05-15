@@ -1,0 +1,16 @@
+@font-face {
+  font-family: NexoFontLight;
+  src: url("fonts/NexoFontLight.ttf");
+}
+@font-face {
+  font-family: NexoFontBold;
+  src: url("fonts/NexoFontBold.ttf");
+}
+@font-face {
+  font-family: NexoFontDark;
+  src: url("fonts/NexoFontDark.ttf");
+}
+@font-face {
+  font-family: NexoFontNormal;
+  src: url("fonts/NexoFontNormal.ttf");
+}
